@@ -1,2 +1,3 @@
-# Maju-BOT
+# Maju
+
 a discord satanic bot
